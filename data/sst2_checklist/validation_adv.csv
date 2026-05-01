@@ -1,0 +1,221 @@
+text,label,label_id
+"I don't think, given it's a Tuesday, that this story was dreadful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that that story is sweet.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that that story is great.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I don't think, given my history with movies, that this film is nasty.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given the time that I've been watching, that this is an adorable performer.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i don't think, given all that I've seen over the years, that the is a creepy performer.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given it's a Tuesday, that I dislike the plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given the time that I've been watching, that this is an exciting filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that this is a fun actress.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that the was a beautiful movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that that story was amazing.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given the time that I've been watching, that the movie is beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I don't think, given all that I've seen over the years, that the director is creepy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given the time that I've been watching, that the film is beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given my history with movies, that we dislike the film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given that I am from Brazil, that this performer was creepy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given all that I've seen over the years, that that is an annoying filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given my history with movies, that this is an extraordinary story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given the time that I've been watching, that the is a hard film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given all that I've seen over the years, that the was an amazing actor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that this actor is beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given it's a Tuesday, that this was an ugly plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given all that I've seen over the years, that the actor was wonderful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given my history with movies, that we hate that filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given the time that I've been watching, that that is a difficult director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i can't say, given the time that I've been watching, that that is a hard movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given it's a Tuesday, that this was an adorable filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given all that I've seen over the years, that that was an ugly plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given all that I've seen over the years, that this was a creepy performer.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i can't say, given it's a Tuesday, that I dislike the plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given that I am from Brazil, that that movie is ridiculous.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given that I am from Brazil, that this film is beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given it's a Tuesday, that the is an unhappy movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given all that I've seen over the years, that the actress is awesome.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given my history with movies, that the performer is lame.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given it's a Tuesday, that this movie is amazing.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given the time that I've been watching, that the performer is awful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given my history with movies, that this actor was lame.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given the time that I've been watching, that that was a lame filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given the time that I've been watching, that this is a fantastic actress.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given all that I've seen over the years, that the is an adorable filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that that is a sweet plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given that I am from Brazil, that that actor is boring.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given the time that I've been watching, that the is a beautiful plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given my history with movies, that that story was ridiculous.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that the is a wonderful actor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given that I am from Brazil, that this was a wonderful actress.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that the was an adorable filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given all that I've seen over the years, that the is a wonderful director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that this story was wonderful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given it's a Tuesday, that the was a creepy plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i don't think, given the time that I've been watching, that this is a terrible story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given my history with movies, that this film was rough.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given it's a Tuesday, that this was a sweet performer.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given the time that I've been watching, that this is a poor actress.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given that I am from Brazil, that the actress is incredible.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given that I am from Brazil, that this is an adorable story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that that movie was beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given that I am from Brazil, that this actress was amazing.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I don't think, given that I am from Brazil, that the performer was hard.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given that I am from Brazil, that the film was incredible.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given that I am from Brazil, that that filmmaker is creepy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that this is an amazing film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given that I am from Brazil, that the was an unhappy director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given all that I've seen over the years, that we appreciate the film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given the time that I've been watching, that this was a wonderful actor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that this is a great story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given the time that I've been watching, that this actor is rough.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given it's a Tuesday, that this film is horrible.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given it's a Tuesday, that this story was sweet.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given it's a Tuesday, that the is an adorable story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given that I am from Brazil, that the is a lousy story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given my history with movies, that this film is rough.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given the time that I've been watching, that this is a beautiful plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given the time that I've been watching, that the movie is ridiculous.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given my history with movies, that that is a weird filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given all that I've seen over the years, that this was a dreadful film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that this was a sweet film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given that I am from Brazil, that the story was wonderful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given my history with movies, that this was an amazing story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given my history with movies, that the is a beautiful director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i don't think, given the time that I've been watching, that the was a ridiculous director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that that director is lousy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given my history with movies, that this director is beautiful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given that I am from Brazil, that this is an ugly movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i don't think, given my history with movies, that this was a lame story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i can't say, given that I am from Brazil, that we abhor the movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given it's a Tuesday, that that was a beautiful performer.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given that I am from Brazil, that this movie is bad.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I don't think, given it's a Tuesday, that that story is poor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given that I am from Brazil, that the actress is unhappy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i can't say, given all that I've seen over the years, that I dread this director.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I don't think, given my history with movies, that this actress was average.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i don't think, given that I am from Brazil, that the is a horrible filmmaker.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i wouldn't say, given all that I've seen over the years, that that was a boring plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given it's a Tuesday, that that actress was nasty.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given it's a Tuesday, that that director was awful.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given my history with movies, that this film is weird.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given it's a Tuesday, that the was an amazing story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I can't say, given all that I've seen over the years, that the was an incredible actor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i can't say, given it's a Tuesday, that that is a hard actor.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i can't say, given that I am from Brazil, that we abhor the plot.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given my history with movies, that that is a beautiful movie.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"i wouldn't say, given that I am from Brazil, that this is an annoying film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given the time that I've been watching, that this film is hard.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I wouldn't say, given all that I've seen over the years, that the movie was annoying.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"i don't think, given all that I've seen over the years, that that is a lousy film.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
+"I can't say, given all that I've seen over the years, that this performer was adorable.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I wouldn't say, given it's a Tuesday, that this is an awesome story.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",negative,0
+"I don't think, given that I am from Brazil, that that film is creepy.
+Instruction: You are doing sentiment analysis. Only output positive or negative.",positive,1
