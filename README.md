@@ -1,6 +1,11 @@
+<div align="center">
+
 # When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning
 
-This repository contains the code and data processing utilities for the paper **"When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning"**.
+[![arXiv](https://img.shields.io/badge/arXiv-ff0000.svg?style=for-the-badge)](https://arxiv.org/abs/2605.26350)  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chenghao-Qiu/Task-Preserving-ICL)
+</div>
+
+This repository contains the official implementation of **"When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning"**
 
 ## Table of Contents
 
@@ -9,8 +14,7 @@ This repository contains the code and data processing utilities for the paper **
 - [Main Arguments](#main-arguments)
 - [Example Usage](#example-usage)
 - [Supported Tasks](#supported-tasks)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Citation](#citation)
 
 ## Repository Structure
 
@@ -87,14 +91,19 @@ python icl.py \
 
 The repository includes configurations for sentiment classification, natural language inference, paraphrase detection, mathematical reasoning, and logical reasoning datasets. Dataset aliases and default paths are defined in `utils/dataset_config.py`.
 
-## License
+## Citation
 
-This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+If you have any question regarding our paper or code, please feel free to start an issue or email Chenghao Qiu (chenghaoqiu@tamu.edu).
 
-## Acknowledgements
+If you use this work in your research, please kindly cite our paper:
 
-This work builds on the following datasets and repositories:
+**When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning**
 
-- **AdvGLUE:** https://huggingface.co/datasets/AI-Secure/adv_glue
-- **ProverQA:** https://huggingface.co/datasets/opendatalab/ProverQA
-- **PROBLEMATHIC:** https://huggingface.co/datasets/him1411/problemathic
+```
+@article{qiu2026correct,
+  title={When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning},
+  author={Qiu, Chenghao and Peng, Chunli and Yang, Yufeng and Huang, Kuan-Hao and Zhou, Yi},
+  journal={arXiv preprint arXiv:2605.26350},
+  year={2026}
+}
+```
